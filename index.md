@@ -11,9 +11,8 @@ This competition was inspired by the PSCSTA and Teamscode. Teams will work to so
 - Location: Issaquah Arena Sports (Address: 2115 NW Poplar Way)
 - Date and Time: Sunday, December 17th from 10AM-3PM.
 
-```markdown
 **Schedule**
-
+```markdown
 10-10:30AM Check-in 
 
 10:30AM-11AM Set-up
@@ -23,7 +22,6 @@ This competition was inspired by the PSCSTA and Teamscode. Teams will work to so
 1:45PM-2:30PM Competition Round 2 (Based on code efficiency)
 
 2:30PM-3PM Awards, Prizes, and Conclusion
-
 ```
 
 ### Competition Details
