@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Bryan and Preston's Excellent Coding Competition
 
-You can use the [editor on GitHub](https://github.com/bapeca/bapeca.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+_Join Bryan Lim and Preston Lee, who are a former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in anyway) for a fun afternoon of coding._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What Is This?
 
-### Markdown
+This competition was inspired by the PSCSTA and Teamscode. Teams will work to solve questions of varying difficulty within a designated time-frame, but there's a twist: that's just the first part. Students will also be judged on solving a single, complex question in the most efficient way possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### When and Where?
+
+- Location: Issaquah Arena Sports (Address: )
+- Date and Time: Sunday, December 17th from 10AM-3PM.
 
 ```markdown
-Syntax highlighted code block
+**Schedule**
 
-# Header 1
-## Header 2
-### Header 3
+10-10:30AM Check-in 
 
-- Bulleted
-- List
+10:30AM-11AM Set-up
 
-1. Numbered
-2. List
+11AM-1:45PM Competition Round 1 (Based on question completion)
 
-**Bold** and _Italic_ and `Code` text
+1:45PM-2:30PM Competition Round 2 (Based on code efficiency)
 
-[Link](url) and ![Image](src)
+2:30PM-3PM Awards, Prizes, and Conclusion
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Competition Details
 
-### Jekyll Themes
+Teams of 1-3 students will be select either beginner (less than year of programming experience) or advanced divisions in registration.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bapeca/bapeca.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Upon arriving, teams will be given time to set-up and read an input text file and give an output using the coding language of their choice.
 
-### Support or Contact
+Teams will be given 2 hours and 45 minutes for round 1. Both beginner and advanced divisions will be given the same 10 questions of easy to moderate difficulty. Each of these questions will be worth 50 points. The advanced division will have access to 5 additional, difficult questions. Each of these questions will be worth 75 points.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Upon completing questions, teams will be given an input file from a judge, who will verify the output from the particpant's terminal. If the output is correct, they will be awarded points, if not, they will still be able to gain points later if their output is correct then, but 5 points will be reduced from each incorrect submission.
+
+Teams will be given 45 minutes for round 2, where they will be given 45 minutes to create the most efficient solution to a single, shared problem. Judges will then determine which is the most efficient and an additional 300 points will be given to the team with the most efficient solution, with 2nd place 275 points, 3rd place 250 points, and so on.
+
+### What You Get
+
+- If you're part of an FRC team, get your programming skills warmed up before build season starts.
+- Lunch, drinks, and snacks will be provided.
+- If you're one of the top three finishers in either the beginner or advanced divisions, walk home with a custom-made trophy.
+- Enter a raffle to win prizes from gift cards to electronics
+- The satisfaction of being with Bryan and Preston and the educational value of this excellent event
+
+### Requirements
+
+- One laptop per team (with no exception)
+- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.)
+- Bravery to enter
+- Any questions? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
+
+## [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
