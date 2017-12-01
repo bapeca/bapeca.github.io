@@ -34,7 +34,7 @@ Teams will be given 2 hours and 45 minutes for round 1. Both beginner and advanc
 
 Upon completing questions, teams will be given an input file from a judge, who will verify the output from the particpant's terminal. If the output is correct, they will be awarded points, if not, they will still be able to gain points later if their output is correct then, but 5 points will be reduced from each incorrect submission.
 
-Teams will be given 45 minutes for round 2, where they will be given 45 minutes to create the most efficient solution to a single, shared problem. Judges will then determine which is the most efficient and an additional 300 points will be given to the team with the most efficient solution, with 2nd place 275 points, 3rd place 250 points, and so on.
+Teams will be given 45 minutes for round 2, where they will be given 45 minutes to create the most efficient solution to a single, shared problem. Judges will then determine which is the most efficient and an additional 175 points will be given to the team with the most efficient solution, with 2nd place 250 points, 3rd place 225 points, and so on.
 
 ### What You Get
 
@@ -49,7 +49,8 @@ Teams will be given 45 minutes for round 2, where they will be given 45 minutes 
 - One laptop per team (with no exception)
 - A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.)
 - Bravery to enter
-- Any questions? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
+
+Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
 
 ## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
 
