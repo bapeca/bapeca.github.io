@@ -1,6 +1,6 @@
 ## Bryan and Preston's Excellent Coding Competition
 
-_Join Bryan Lim and Preston Lee, who are a former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in anyway) for a fun afternoon of coding._
+_Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in anyway) for a fun afternoon of coding._
 
 ### What Is This?
 
