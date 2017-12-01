@@ -36,6 +36,9 @@ Upon completing questions, teams will be given an input file from a judge, who w
 
 Teams will be given 45 minutes for round 2, where they will be given 45 minutes to create the most efficient solution to a single, shared problem. Judges will then determine which is the most efficient and an additional 175 points will be given to the team with the most efficient solution, with 2nd place 150 points, 3rd place 125 points, and so on.
 
+
+Pro tip: visit the [PSCSTA Website](http://pscsta.org/pscsta-programming-contest/) to view past competitions and questions, as ours will be of a similar style. 
+
 ### What You Get
 
 - If you're part of an FRC team, get your programming skills warmed up before build season starts.
