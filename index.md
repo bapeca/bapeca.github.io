@@ -8,7 +8,7 @@ This competition was inspired by the PSCSTA and Teamscode. Teams will work to so
 
 ### When and Where?
 
-- Location: Issaquah Arena Sports (Address: )
+- Location: Issaquah Arena Sports (Address: 2115 NW Poplar Way)
 - Date and Time: Sunday, December 17th from 10AM-3PM.
 
 ```markdown
@@ -53,4 +53,6 @@ Teams will be given 45 minutes for round 2, where they will be given 45 minutes 
 - Bravery to enter
 - Any questions? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
 
-## [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
+## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
+
+_The deadline to register is December 16th at 10PM_
