@@ -47,7 +47,7 @@ Teams will be given 45 minutes for round 2, where they will be given 45 minutes 
 ### Requirements
 
 - One laptop per team (with no exception)
-- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.)
+- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door**
 - Bravery to enter
 
 Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
