@@ -58,3 +58,8 @@ Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:br
 ## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
 
 _The deadline to register is December 16th at 10PM_
+
+
+Share this flyer! If a team you refer registers, gain an extra raffle ticket:
+
+![Flyer](https://sivnig.bn1303.livefilestore.com/y4mdtW8P4j4h48fmZzN29DqLW5Tmhs73M4MN-XmXxaKKokl992dZXJSEBZ0_MtoNrtKHfc9jvmULDw3zgUy3EidhcDRiH1Fq3sBc8RKp_7hvmQm2L73fqFjQRB7vxWS4N4umF2hPDAiJuuRgpRx3YVvIhyzjsPpZnWFICwQPm67TxvBGYeBbd-1OJqTnEJkfNK2ZzYolmt8L8zLTCECIbQFiQ)
