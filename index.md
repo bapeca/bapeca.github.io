@@ -1,4 +1,6 @@
-## Bryan and Preston's Excellent Coding Competition
+## Bryan and Preston's Excellent Coding Adventure - A Programming Competition for High School Students
+
+![Bryan and Preston](https://4qnzla.bn1303.livefilestore.com/y4ml1vMCBJnR-53FaK9NBfgZUTipwY9n8oAIA5WbO05xrf7ibdQl9AIpVxqEaZHX6CfYpw8kRZp-jtObFZRWOW60EP3UcFbrRDtSGBWzA9aAMDlJWYKf8JRYjBnUY_JB2F-WiQTLJ0FZXe9CnBbU14GjaAbsvv7-8AyDr6U1DiOfb12hDx3yNKMjt_VxXm-i1JNl85zsbzVAhJLxil0LVY0LQ)
 
 _Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in anyway) for a fun afternoon of coding._
 
@@ -60,6 +62,7 @@ Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:br
 _The deadline to register is December 16th at 10PM_
 
 
+  
 Share this flyer! If a team you refer registers, gain an extra raffle ticket:
 
 ![Flyer](https://sivnig.bn1303.livefilestore.com/y4mdtW8P4j4h48fmZzN29DqLW5Tmhs73M4MN-XmXxaKKokl992dZXJSEBZ0_MtoNrtKHfc9jvmULDw3zgUy3EidhcDRiH1Fq3sBc8RKp_7hvmQm2L73fqFjQRB7vxWS4N4umF2hPDAiJuuRgpRx3YVvIhyzjsPpZnWFICwQPm67TxvBGYeBbd-1OJqTnEJkfNK2ZzYolmt8L8zLTCECIbQFiQ)
