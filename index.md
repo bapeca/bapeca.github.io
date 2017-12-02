@@ -1,4 +1,6 @@
 ![Bryan and Preston](https://4qnzla.bn1303.livefilestore.com/y4ml1vMCBJnR-53FaK9NBfgZUTipwY9n8oAIA5WbO05xrf7ibdQl9AIpVxqEaZHX6CfYpw8kRZp-jtObFZRWOW60EP3UcFbrRDtSGBWzA9aAMDlJWYKf8JRYjBnUY_JB2F-WiQTLJ0FZXe9CnBbU14GjaAbsvv7-8AyDr6U1DiOfb12hDx3yNKMjt_VxXm-i1JNl85zsbzVAhJLxil0LVY0LQ)
+_Preston Lee (left) and Bryan Lim (right)_
+
 
 ## Bryan and Preston's Excellent Coding Adventure - A Programming Competition for High School Students
 
