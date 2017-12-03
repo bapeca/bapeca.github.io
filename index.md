@@ -6,6 +6,10 @@ _Preston Lee (left) and Bryan Lim (right)_
 
 _Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in anyway) for a fun afternoon of coding._
 
+## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
+
+_The deadline to register is December 16th at 10PM_
+
 ### What Is This?
 
 This competition was inspired by the PSCSTA and Teamscode. Teams will work to solve questions of varying difficulty within a designated time-frame, **but there's a twist: that's just the first part.** Students will also be judged on solving a single, complex question in the **most efficient way possible.**
