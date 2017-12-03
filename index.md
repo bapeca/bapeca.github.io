@@ -4,7 +4,7 @@ _Preston Lee (left) and Bryan Lim (right)_
 
 ## Bryan and Preston's Excellent Coding Adventure - A Programming Competition for High School Students
 
-_Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in anyway) for a fun afternoon of coding._
+_Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in any way) for a fun afternoon of coding._
 
 ## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
 
@@ -58,7 +58,7 @@ Pro tip: visit the [PSCSTA Website](http://pscsta.org/pscsta-programming-contest
 ### Requirements
 
 - One laptop per team (with no exception)
-- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door**
+- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door or through PayPal invoice** (Select preffered method in registration)
 - Bravery
 
 Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
