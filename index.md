@@ -54,7 +54,7 @@ Pro tip: visit the [PSCSTA Website](http://pscsta.org/pscsta-programming-contest
 ### Requirements
 
 - One laptop per team (with no exception)
-- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door or through PayPal invoice** (Select preffered method in registration)
+- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door or through PayPal invoice** (Select preferred method in registration)
 - Bravery
 
 Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
