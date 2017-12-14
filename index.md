@@ -2,18 +2,14 @@
 
 _Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in any way) for a fun afternoon of coding._
 
-## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
 
-_The deadline to register is December 16th at 10PM_
+## BAPECA has been delayed to Saturday May 12th. We will be rebranding to the Issaquah Coding Competition. More information will be available at [http://team1318.org/](http://team1318.org/) 
+
+We apologize for any inconvenience. Any registered teams as of December 13th will have their fees halved.
 
 ### What Is This?
 
 This competition was inspired by the PSCSTA and Teamscode. Teams will work to solve questions of varying difficulty within a designated time-frame, **but there's a twist: that's just the first part.** Students will also be judged on solving a single, complex question in the **most efficient way possible.**
-
-### When and Where?
-
-- Location: Issaquah Arena Sports (2115 NW Poplar Way, Issaquah, WA)
-- Date and Time: Sunday, December 17th from 10AM-3PM.
 
 **Schedule**
 ```markdown
@@ -54,17 +50,4 @@ Pro tip: visit the [PSCSTA Website](http://pscsta.org/pscsta-programming-contest
 ### Requirements
 
 - One laptop per team (with no exception)
-- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door or through PayPal invoice** (Select preferred method in registration)
-- Bravery
-
-Any questions? Want to Help Out? Contact [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
-
-## [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSc7D2XKKRAEHg5nh-6hQqkH01x5obfk_ppboBWnEB_yLM3fug/viewform?usp=sf_link)
-
-_The deadline to register is December 16th at 10PM_
-
-
-  
-Share this flyer! If a team you refer registers, gain an extra raffle ticket:
-
-![Flyer](https://sivnig.bn1303.livefilestore.com/y4mdtW8P4j4h48fmZzN29DqLW5Tmhs73M4MN-XmXxaKKokl992dZXJSEBZ0_MtoNrtKHfc9jvmULDw3zgUy3EidhcDRiH1Fq3sBc8RKp_7hvmQm2L73fqFjQRB7vxWS4N4umF2hPDAiJuuRgpRx3YVvIhyzjsPpZnWFICwQPm67TxvBGYeBbd-1OJqTnEJkfNK2ZzYolmt8L8zLTCECIbQFiQ)
+- A $10 entry fee (Covers food and venue. Exceeds will go to funding STEM organizations and clubs around Issaquah. Need-based exceptions can be made.) **Payments can be made at the door** 
