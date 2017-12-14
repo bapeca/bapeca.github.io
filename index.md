@@ -1,6 +1,6 @@
 ## BAPECA has been delayed to Saturday May 12th. We will be rebranding to the Issaquah Coding Competition. More information will be available at [http://team1318.org/](http://team1318.org/) 
 
-We apologize for any inconvenience. Any registered teams as of December 13th will have their fees halved. If you have any questions, please email [mailto:bryanandpreston@outlook.com](bryanandpreston@outlook.com)
+We apologize for any inconvenience. Any registered teams as of December 13th will have their fees halved. If you have any questions, please email [bryanandpreston@outlook.com](mailto:bryanandpreston@outlook.com)
 
 ### What Is This?
 
