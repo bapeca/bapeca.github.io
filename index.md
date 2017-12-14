@@ -1,11 +1,6 @@
-## Bryan and Preston's Excellent Coding Adventure - A Programming Competition for High School Students
-
-_Join Bryan Lim and Preston Lee, former captain and lead programmer of the Issaquah Robotics Society respectively (which is not affiliated with this competition in any way) for a fun afternoon of coding._
-
-
 ## BAPECA has been delayed to Saturday May 12th. We will be rebranding to the Issaquah Coding Competition. More information will be available at [http://team1318.org/](http://team1318.org/) 
 
-We apologize for any inconvenience. Any registered teams as of December 13th will have their fees halved.
+We apologize for any inconvenience. Any registered teams as of December 13th will have their fees halved. If you have any questions, please email [mailto:bryanandpreston@outlook.com](bryanandpreston@outlook.com)
 
 ### What Is This?
 
